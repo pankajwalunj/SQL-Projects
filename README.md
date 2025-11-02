@@ -1,4 +1,4 @@
-# SQL-Projects
+# SQL-Projects - This folder contains real-world SQL projects demonstrating my ability to analyze, clean, and extract insights from data.
 🛒 [Retail Sales Analysis] | Business insights from Superstore dataset | Joins, Aggregations, Window Functions |
 🎬 [Netflix Content Analysis] | Content trends and country-wise insights | Subqueries, Group By, Text Functions |
 👩‍💼 [Employee Payroll Analysis] | HR analytics and performance trends | CTEs, Ranking, Date Functions |
